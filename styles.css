@@ -1,0 +1,22 @@
+body {background-color: #201c1c;}
+img[alt='www.000webhost.com'] {display: none;}
+
+h1, p, ul {color: white;}
+
+.content {
+	overflow: auto;
+	border: 3px solid rebeccaPurple; }
+
+.content div {padding: 10px;}
+
+.blue {
+	float: right;
+	width: 45%;
+	background-color: #1faadb; }
+
+button:hover {color: grey;}
+
+img.center, video.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto; }
