@@ -1,7 +1,9 @@
-body {background-color: black;}
-h1, p {color: lightGray;}
+body {background-color: black}
+h1, p {color: lightGray}
 
-img.center, video.center {
+img.center, video.center
+{
   display: block;
   margin-left: auto;
-  margin-right: auto; }
+  margin-right: auto;
+}
