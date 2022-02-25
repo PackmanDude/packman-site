@@ -1,18 +1,12 @@
 body {background-color:black}
 h1, h2, h3, h4, h5, h6, p {color:lightGray}
 
-img.center, video.center // give a f*ck, to center text use spec. dick in ur xhtml shit, stupidass!
+img.center, video.center /* give a f*ck, to center text use spec. dick in ur xhtml shit, stupidass! */
 {
   display:block;
   margin-left:auto;
   margin-right:auto;
 }
-
-give
-{
-  a:fuck;
-  give:a;
-  fuck:give;
-  a:fuck;
-}
-
+/*
+  no need to give a fuck anymore
+*/
